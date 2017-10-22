@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:fitsSystemWindows="true"
+              android:orientation="vertical">
+  <android.support.v7.widget.Toolbar
+      android:id="@+id/recommend_toolbar"
+      android:background="@color/colorPrimaryDark"
+      android:layout_width="match_parent"
+      android:layout_height="?attr/actionBarSize">
+  </android.support.v7.widget.Toolbar>
+  <android.support.v4.widget.SwipeRefreshLayout
+      android:id="@+id/sfl_recommend"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent">
+  <ListView
+      android:dividerHeight="1dp"
+      android:divider="#1000"
+      android:id="@+id/lv_recommend"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent">
+  </ListView>
+  </android.support.v4.widget.SwipeRefreshLayout>
+</LinearLayout>

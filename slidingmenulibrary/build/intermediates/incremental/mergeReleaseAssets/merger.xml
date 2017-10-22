@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\github\PracticeV1.011\Practice\slidingmenulibrary\assets"/><source path="D:\github\PracticeV1.011\Practice\slidingmenulibrary\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="D:\github\PracticeV1.011\Practice\slidingmenulibrary\src\release\assets"/></dataSet></merger>

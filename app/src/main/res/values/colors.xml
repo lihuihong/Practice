@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#51ACE3</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWite">#ffffff</color>
+    <color name="color1">#123456</color>
+    <color name="color2">#1C9881</color>
+    <color name="orange">#F37B00</color>
+    <color name="teal">#00D9F3</color>
+    <color name="bar">#303F9F</color>
+    <item name="gray_holo_light" type="color">#ffd0d0d0</item>
+</resources>
